@@ -1,0 +1,9 @@
+<suite name = "CodeMyMobile">
+
+    <test name = "LoginPage">
+        <classes>
+            <class name ="TestClass.LoginTest"></class>
+
+        </classes>
+    </test>
+</suite>
